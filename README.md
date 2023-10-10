@@ -316,8 +316,8 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Item # | Description | Completed
 --- | --- | ---
 4a | 1st Favorite emoji | 😺
-4b | Link to `commit #1 from Github.com` |
-4c | Link to markdown tables docs |
+4b | Link to `commit #1 from Github.com` |[Commit #1 from Github.com](https://github.com/IsabelRA26/learn-git-milestones.git)
+4c | Link to markdown tables docs | [Markdown Tables Guide](https://www.codecademy.com/resources/docs/markdown/tables)
 4d | What does `log` do? |
 5a | 2nd Favorite emoji |
 5b | Link to `commit #2 from Github Desktop` |
