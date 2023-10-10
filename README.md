@@ -316,11 +316,11 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Item # | Description | Completed
 --- | --- | ---
 4a | 1st Favorite emoji | 😺
-4b | Link to `commit #1 from Github.com` |[Commit #1 from Github.com](https://github.com/IsabelRA26/learn-git-milestones.git)
+4b | Link to `commit #1 from Github.com` |[Commit #1 from Github.com](15dcd05387b2ba06a325fc9ee2a2c70fbb52b84a)
 4c | Link to markdown tables docs | [Markdown Tables Guide](https://www.codecademy.com/resources/docs/markdown/tables)
 4d | What does `log` do? | log allows us to review details of who performed an action, what the action was, and when it was performed. (in terms of our GitHub page)
 5a | 2nd Favorite emoji | 🤓
-5b | Link to `commit #2 from Github Desktop` |
+5b | Link to `commit #2 from Github Desktop` | [Github Page](ad1e52067358e69d952fc4c431a54abe23b92a2c)
 6a | Full path to your working directory |
 6b | Link to `commit #3 from CLI` |
 7 | 3rd Favorite emoji |
