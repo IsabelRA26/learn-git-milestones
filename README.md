@@ -318,7 +318,7 @@ Item # | Description | Completed
 4a | 1st Favorite emoji | 😺
 4b | Link to `commit #1 from Github.com` |[Commit #1 from Github.com](https://github.com/IsabelRA26/learn-git-milestones.git)
 4c | Link to markdown tables docs | [Markdown Tables Guide](https://www.codecademy.com/resources/docs/markdown/tables)
-4d | What does `log` do? |
+4d | What does `log` do? | log allows us to review details of who performed an action, what the action was, and when it was performed. (in terms of our GitHub page)
 5a | 2nd Favorite emoji |
 5b | Link to `commit #2 from Github Desktop` |
 6a | Full path to your working directory |
