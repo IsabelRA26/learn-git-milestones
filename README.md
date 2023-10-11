@@ -321,7 +321,7 @@ Item # | Description | Completed
 4d | What does `log` do? | log allows us to review details of who performed an action, what the action was, and when it was performed. (in terms of our GitHub page)
 5a | 2nd Favorite emoji | 🤓
 5b | Link to `commit #2 from Github Desktop` | [Github Page](ad1e52067358e69d952fc4c431a54abe23b92a2c)
-6a | Full path to your working directory | C:\Users\isabe\OneDrive\Desktop\learn-git-milestones
+6a | Full path to your working directory | C:\Users\isabel\OneDrive\Desktop\learn-git-milestones
 6b | Link to `commit #3 from CLI` |
 7 | 3rd Favorite emoji |
 8 | Link to `commit #4 from VS Code` |
