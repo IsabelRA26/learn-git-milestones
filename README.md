@@ -323,7 +323,7 @@ Item # | Description | Completed
 5b | Link to `commit #2 from Github Desktop` | [Commit #2 from Github.com](https://github.com/omundy/learn-git-milestones/tree/ad1e52067358e69d952fc4c431a54abe23b92a2c)
 6a | Full path to your working directory | C:\Users\isabel\OneDrive\Desktop\learn-git-milestones
 6b | Link to `commit #3 from CLI` | [Commit #3 from CLI](https://github.com/omundy/learn-git-milestones/tree/0f7cd7f925c2c389a2c64dd689458d25ec24a3c0)
-7 | 3rd Favorite emoji |
+7 | 3rd Favorite emoji | 😎
 8 | Link to `commit #4 from VS Code` |
 9a | Link to `first-website` github.com repo page |
 9a | Link to `first-website` github.io "project site" |
