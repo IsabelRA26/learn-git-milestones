@@ -325,8 +325,8 @@ Item # | Description | Completed
 6b | Link to `commit #3 from CLI` | [Commit #3 from CLI](https://github.com/IsabelRA26/learn-git-milestones/commit/0f7cd7f925c2c389a2c64dd689458d25ec24a3c0)
 7 | 3rd Favorite emoji | 😎
 8 | Link to `commit #4 from VS Code` | [Commit #4 from VS Code](https://github.com/IsabelRA26/learn-git-milestones/commit/65f9d4e3dbd3ff7a1c0891972b0da0bfb2b3ffd6)
-9a | Link to `first-website` github.com repo page |
-9a | Link to `first-website` github.io "project site" |
+9a | Link to `first-website` github.com repo page |[first-website github.com repo page](https://github.com/IsabelRA26/first-website)
+9a | Link to `first-website` github.io "project site" |[firt-website github.io project site](https://isabelra26.github.io/first-website/)
 
 
 
